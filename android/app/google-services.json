@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "53834269646",
+    "firebase_url": "https://petscorner-7af08.firebaseio.com",
+    "project_id": "petscorner-7af08",
+    "storage_bucket": "petscorner-7af08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53834269646:android:ae47bed16bce519cc2619f",
+        "android_client_info": {
+          "package_name": "com.nandu.organic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53834269646-8p2nqm8ifvjsko7qvcsf334fc89jn2re.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWRvPhU5ss4USgkJbw7mxjgQb_KKeehLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53834269646-8p2nqm8ifvjsko7qvcsf334fc89jn2re.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
